@@ -16,17 +16,6 @@
 ---
 ✨ I'm a systems engineer and software developer I’m passionate about building cloud-based software solutions with Microsoft Azure, where I tackle complex technical challenges through creative problem-solving. When I’m not architecting scalable systems or optimizing cloud workflows, I recharge by hiking—navigating trails and overcoming obstacles outdoors fuels the same curiosity and resilience I bring to my work. ✨
 
-
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
-
-<!-- About section: END -->
-
-
 <!-- Conecct section -->
 
 <h2>Connect with me </h3>
