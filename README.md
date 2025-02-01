@@ -4,8 +4,8 @@
 <!-- Profile Views -->
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="www.linkedin.com/in/lesterthula">Linkedin</a>
+<!--   <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="www.linkedin.com/in/lesterthula">Linkedin</a> -->
 </p>
 
  <!-- About section -->
