@@ -13,17 +13,7 @@
 ---
 ✨ I'm a systems engineer and software developer I’m passionate about building cloud-based software solutions with Microsoft Azure, where I tackle complex technical challenges through creative problem-solving. When I’m not architecting scalable systems or optimizing cloud workflows, I recharge by hiking—navigating trails and overcoming obstacles outdoors fuels the same curiosity and resilience I bring to my work. ✨
 
-<!-- Conecct section -->
 
-<h2>Connect with me </h3>
-    <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
-   </p>
-
- <!-- Conecct section: END -->
  
   <!-- GitHub section -->
 
