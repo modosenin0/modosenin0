@@ -11,7 +11,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a systems engineer and software developer I’m passionate about building cloud-based software solutions with Microsoft Azure, where I tackle complex technical challenges through creative problem-solving. When I’m not architecting scalable systems or optimizing cloud workflows, I recharge by hiking—navigating trails and overcoming obstacles outdoors fuels the same curiosity and resilience I bring to my work. ✨
+✨ I'm a systems engineer and software developer I’m passionate about building cloud based software solutions with Microsoft Azure, where I tackle complex technical challenges through creative problem solving. When I’m not architecting scalable systems or optimizing cloud workflows, I recharge by hiking navigating trails and overcoming obstacles outdoors fuels the same curiosity and resilience I bring to my work. ✨
 
 
  
